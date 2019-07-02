@@ -1,5 +1,11 @@
 <RCC>
     <qresource prefix="/">
         <file>main.qml</file>
+        <file>LoginForm.ui.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>FeedsForm.ui.qml</file>
+        <file>FeedModel.qml</file>
+        <file>FeedDelegate.qml</file>
+        <file>PostForm.ui.qml</file>
     </qresource>
 </RCC>
